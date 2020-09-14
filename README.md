@@ -1,0 +1,1 @@
+This repository contains code related to Building product with Javascript course.
